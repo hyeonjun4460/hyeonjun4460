@@ -1,8 +1,8 @@
 ### 논리적인 근거와 꼼꼼한 기록을 사랑하는 개발자 유현준입니다 😄
 ---
 #### 기술블로그
-- [Tistory(22.12.~ )][tistoryLink]
-- [Velog(22.03. ~ 22.12.)][velogLink]
+- [Tistory][tistoryLink] | 22.12. ~ 
+- [Velog][velogLink] &nbsp; | 22.03 ~ 22.12.
 
 
 [velogLink]: https://velog.io/@kr4460
