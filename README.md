@@ -8,6 +8,10 @@
 [velogLink]: https://velog.io/@kr4460
 [tistoryLink]: https://coldpresso.tistory.com/
 
+---
+
+![hyeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjun4460&show_icons=true&theme=radical)
+
 <!--
 **hyeonjun4460/hyeonjun4460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
